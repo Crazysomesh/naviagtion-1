@@ -1,4 +1,4 @@
-#Tue Jul 16 14:04:16 IST 2019
-base.0=/home/ets/AwesomeProject/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Wed Jul 17 15:34:13 IST 2019
+base.0=/home/ets/naviagtion-1/android/app/build/intermediates/transforms/dexMerger/debug/0
 renamed.0=classes.dex
 path.0=classes.dex

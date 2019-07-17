@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ets/AwesomeProject/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "outputFile": "/home/ets/naviagtion-1/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
             "map": [
                 {
                     "source": "/home/ets/.gradle/caches/transforms-2/files-2.1/2d86118b07d72353570c2e9e5c81a8c3/res/values-ldltr-v21/values-ldltr-v21.xml",

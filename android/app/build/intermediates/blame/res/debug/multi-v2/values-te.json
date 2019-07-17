@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ets/AwesomeProject/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml",
+            "outputFile": "/home/ets/naviagtion-1/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml",
             "map": [
                 {
                     "source": "/home/ets/.gradle/caches/transforms-2/files-2.1/4b4323a049e09ecc13225b274adbc715/res/values-te/values-te.xml",
